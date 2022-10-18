@@ -1407,4 +1407,8 @@ footer p {
         display: block;
     }
 }
-
+@media (max-width: 390px){
+     .abt-head h1{
+        font-size: 30px;
+     }
+}
