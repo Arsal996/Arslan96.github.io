@@ -238,7 +238,7 @@ header.sticky {
 .t5 {
     font-size: var(--p-font);
     line-height: 28px;
-    color: var(--second-color);
+    color: 	#808080;
 }
 
 span {
@@ -1408,8 +1408,3 @@ footer p {
     }
 }
 
-@media (max-width: 390px){
-    #home{
-        width: 105%;
-    }
-}
