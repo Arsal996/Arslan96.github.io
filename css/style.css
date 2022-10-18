@@ -1449,8 +1449,8 @@ footer p {
         padding: 0 20px;
     }
 }
-/* @media (max-width: 375px) {
-    .img-p img{
-         width: 80%;
+@media (max-width: 375px) {
+      #home{
+        width: 101%;
+      }
 }
-} */
