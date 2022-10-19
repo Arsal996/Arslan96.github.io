@@ -1447,9 +1447,8 @@ footer p {
     .t4 {
         padding: 0 20px;
     }
+    .abt-info{
+       width: 88%;
+    }
 }
-@media (max-width: 375px) {
-      #home{
-        width: 101%;
-      }
-}
+
